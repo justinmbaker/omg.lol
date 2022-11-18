@@ -20,4 +20,4 @@ We send three reminders when an address is approaching expiration:
 
 ## Address Expiration
 
-When addresses expire, everything associated with them is expunged (including any content, configuration, etc.) and the adddress is returned to the available address pool. If you’re concerned about your address expiring, be sure to add some time to it in advance of its expiration date.
+When addresses expire, everything associated with them is expunged (including any content, configuration, etc.) and the address is returned to the available address pool. If you’re concerned about your address expiring, be sure to add some time to it in advance of its expiration date.
